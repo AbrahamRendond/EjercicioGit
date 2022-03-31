@@ -1,6 +1,6 @@
 // FIXME: No puede ser Orozco paso por aqui y desordeno el codigo necesito tu ayuda
 function resta(a, b) {
-    const c = a ----- b;
+    const c = a - b;
     return c;
   }
 
